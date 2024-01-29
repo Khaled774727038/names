@@ -1,0 +1,13 @@
+.names {
+    display: flex;
+    flex-flow: wrap row;
+    justify-content: center;
+}
+
+.names {
+    background-color: #777;
+    width: 200px;
+    height: 200px;
+    padding: 15px;
+
+}
